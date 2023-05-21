@@ -10,6 +10,8 @@ and second, for to run this code, you will need to know:
 
 once you know that, you can run and check if you hace good health.
 
+And the last, there are two project in c# in this chapter, one is "Form 1", this is the practice, don't think too much about it, the second one is, "Check your Body Mass Index", this is the correct.
+
 btw, i will let you some examples if you want to check all the if that i use in this code, and know if i did this homework well:
 
 Underweight or Low: BMI < 18.5
