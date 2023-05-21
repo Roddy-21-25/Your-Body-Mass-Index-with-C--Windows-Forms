@@ -1,0 +1,17 @@
+C:\Users\roddy\source\repos\APP_01\APP_01\bin\Debug\netcoreapp3.1\APP_01.exe
+C:\Users\roddy\source\repos\APP_01\APP_01\bin\Debug\netcoreapp3.1\APP_01.deps.json
+C:\Users\roddy\source\repos\APP_01\APP_01\bin\Debug\netcoreapp3.1\APP_01.runtimeconfig.json
+C:\Users\roddy\source\repos\APP_01\APP_01\bin\Debug\netcoreapp3.1\APP_01.runtimeconfig.dev.json
+C:\Users\roddy\source\repos\APP_01\APP_01\bin\Debug\netcoreapp3.1\APP_01.dll
+C:\Users\roddy\source\repos\APP_01\APP_01\bin\Debug\netcoreapp3.1\APP_01.pdb
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.csproj.AssemblyReference.cache
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.Form1.resources
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.csproj.GenerateResource.cache
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.AssemblyInfoInputs.cache
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.AssemblyInfo.cs
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.csproj.CoreCompileInputs.cache
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.dll
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.pdb
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.genruntimeconfig.cache
+C:\Users\roddy\source\repos\APP_01\APP_01\obj\Debug\netcoreapp3.1\APP_01.Form2.resources
